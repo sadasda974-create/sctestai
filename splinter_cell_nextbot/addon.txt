@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+    "name"              "Splinter Cell Agent NextBot"
+    "version"           "1.0"
+    "author_name"       "AI Assistant"
+    "author_email"      ""
+    "author_url"        ""
+    "info"              "A sophisticated stealth-focused NextBot based on DrGBase framework, featuring advanced AI behaviors inspired by Splinter Cell agents."
+    "override"          "0"
+    "workshopid"        ""
+}
